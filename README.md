@@ -100,10 +100,10 @@ From: [Google Fonts](https://fonts.google.com/)
 
 This project will count as **5 assignments**. You will be assessed on the following metrics
 
-[x] **(1) React Components**
+- [x] **(1) React Components**
   + You will need to create the components for each page and universal components like the navbar, footer, item (picture, title, price).
 
-[x] **(2) React Router**
+- [x] **(2) React Router**
   + You will need to have routing on the page. Users should be able to navigate the following routes on the page.  
     - `/`
     - `/about`
@@ -112,15 +112,15 @@ This project will count as **5 assignments**. You will be assessed on the follow
     - `/product/{product-id}`
     - `/category/{category-type}`
 
-[x] **(3) React Props + API Integration**
+- [x] **(3) React Props + API Integration**
   + You should consume data from the [Mallory Furniture API](https://mallory-furniture-admin.now.sh/docs/) and render that data using React's convention of `props` in relevant components.
 
-[x] **(4) React State + Event Handling**
+- [x] **(4) React State + Event Handling**
   + You should implement the 3 features:
     - Multi Listings Page – [Feature: On-sale filter](mockups/mallory-onsale-filter.gif)
     - Shopping Cart – [Feature: Open + Close Shopping Cart](mockups/mallory-cart-demo-part1.gif)
     - Shopping Cart – [Feature: Add/Remove Shopping Cart Items](mockups/mallory-cart-demo-part2.gif)
 
-[x] **(5) HTML/CSS Styles**
+- [x] **(5) HTML/CSS Styles**
   + You should implement HTML/CSS best practices to achieve a faithful representation of the mockup
   + Layout should have columns, and you should pay attention to details like typography, margin/padding and colors.
