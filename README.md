@@ -19,6 +19,7 @@ After completing this assignment you should be able to:
   - Manage state across multiple React components.
 - Use the React Router to determine what view is rendered and to navigate URLs.
 - Query for data from an API in your React application.
+- Manage events using React state in single components and across multiple components
 
 ## Project Requirements Summary
 > **Make a React application that handles routes, fetches data, and renders components for Mallory Furniture's Front End.**
