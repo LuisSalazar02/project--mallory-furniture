@@ -110,8 +110,8 @@ This project will count as **5 assignments**. You will be assessed on the follow
     - `/about`
     - `/terms`
     - `/all-products`
-    - `/product/{product-id}`
-    - `/category/{category-type}`
+    - `/product/{productId}`
+    - `/category/{categoryType}`
 
 - [x] **(3) React Props + API Integration**
   + You should consume data from the [Mallory Furniture API](https://mallory-furniture-admin.now.sh/docs/) and render that data using React's convention of `props` in relevant components.
