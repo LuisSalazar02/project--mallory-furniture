@@ -97,7 +97,7 @@ From: [Google Fonts](https://fonts.google.com/)
   - Quality
   - Max Price
 
-## God Mode
+### God Mode
 - Use [`Redux`](https://redux.js.org/) to integrate wirh React.
 
 ## Assessment
