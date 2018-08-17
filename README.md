@@ -97,6 +97,9 @@ From: [Google Fonts](https://fonts.google.com/)
   - Quality
   - Max Price
 
+## God Mode
+- Use [`Redux`](https://redux.js.org/) to integrate wirh React.
+
 ## Assessment
 
 This project will count as **5 assignments**. You will be assessed on the following metrics
